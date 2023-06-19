@@ -1,3 +1,4 @@
 chleb		3.50
 jaja		8.00
 masło		5.50
+zakupy		3.50
